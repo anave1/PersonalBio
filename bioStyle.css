@@ -1,0 +1,41 @@
+.nav-tab{
+ background-color: rgb(207, 207, 124);
+ border-style: solid;
+}
+
+.change{
+ text-decoration: none;
+ color: rgb(202, 7, 0);
+}
+
+div.nav-tab:hover{
+ background-color: rgb(8, 8, 8);
+}
+
+body{
+  background-color: rgb(92, 30, 27);
+}
+
+.align{
+  margin: 20px 200px 20px 450px;
+  width:20%;
+  border: 3px solid rgb(202,7,0);
+  text-align: left;
+  background-color: rgb(207, 207, 124);
+}
+
+div p{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.img1{
+  width:750px;
+  height:500px;
+  margin-left: 200px;
+  border: 3px solid rgb(255, 0, 0);
+}
+
+#cool:hover{
+  background-color: rgb(202, 7, 0);
+}
